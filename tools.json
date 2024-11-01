@@ -12,12 +12,6 @@
         "ToolLink": "https://cdn.discordapp.com/attachments/1283503485429616662/1283503811163459666/nRi28Wtqb1.exe?ex=67252692&is=6723d512&hm=9e52f03dc2228b113b3e38618675102d7bbda59f2808081e0ddbaf9c15bb1692&"
     },
     {
-        "GameName": "BO6",
-        "ToolName": "CHICKENNUTS",
-        "ToolImage": "https://cdn.discordapp.com/attachments/1301700219574030490/1301700258639777922/maxresdefault.jpg?ex=67256e56&is=67241cd6&hm=50e628b55ada7e12f6e2ebd58c919f4b5dca49581ca34220a923a4070b449ad0&",
-        "ToolLink": "https://cdn.discordapp.com/attachments/1283503485429616662/1283503811163459666/nRi28Wtqb1.exe?ex=67252692&is=6723d512&hm=9e52f03dc2228b113b3e38618675102d7bbda59f2808081e0ddbaf9c15bb1692&"
-    },
-    {
         "GameName": "MW3",
         "ToolName": "Zenith Chair",
         "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/MW3ZenithChair.png",
@@ -50,6 +44,13 @@
         {
         "GameName": "BO6",
         "ToolName": "Silent Chair",
+        "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/BO6SilentChair.png",
+        "ToolLink": "https://cdn.discordapp.com/attachments/1292182520598888449/1301309475487223928/unlocker.exe"
+    }
+    },
+        {
+        "GameName": "etc",
+        "ToolName": "Account Gen",
         "ToolImage": "https://raw.githubusercontent.com/nam3lol/lunohub/main/Images/BO6SilentChair.png",
         "ToolLink": "https://cdn.discordapp.com/attachments/1292182520598888449/1301309475487223928/unlocker.exe"
     }
